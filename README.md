@@ -1,2 +1,4 @@
 # INPUT-COLOR-CHECKER
-INPUT COLOR CHECKER Using html css js 
+#HTML
+#CSS
+#JS
